@@ -21,7 +21,7 @@ Other features built for productivity for both type of typing are:
 
 ## Demo
 
-![VoiceNote Demo](Demo/demo.gif)
+![VoiceNote Demo](Demo/00demo.gif)
 
 
 ## Target Users - who can benefit from VoiceNote?
