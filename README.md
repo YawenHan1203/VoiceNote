@@ -127,6 +127,22 @@ To fix the last 2 problems, you should click on the small camera icon in the bro
 
 **VoiceNote** is really a broad-platform app. As long as you run it through a Chrome browser it will work. No need for installation, disk space or high-end machines. It will run smoothly on your PC, desktop, laptop and Chromebook. You might try it on your tablets and phones, but it might have issues with some devices.
 
+## Development Tools
 
+The web application is built with MERN stack (MongoDB, Express.js, React.js, Node.js), Redis, Passport.js, Bootstrap, Web Speech API, MediaRecorder API, Google Natural Language API, and AWS S3. 
+
+### Built With
+* [S3](https://aws.amazon.com/s3/) - To store raw audio recording files.
+* [MongoDB](https://www.mongodb.com/) - NoSQL database.
+* [Express.js](https://expressjs.com/) - Web application framework for Node.js. 
+* [React.js](https://reactjs.org/) - Building frontend interfaces.
+* [Node.js](https://nodejs.org/en/) - Open source server environment.
+* [Redis](https://redis.io/) - In-memory data structure store to cache analysis results for application speedup.
+* [Passport.js](https://expressjs.com/) - Authentication middleware for Node.js.
+* [Bootstrap](https://getbootstrap.com/) - Front-end component library.
+* [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) - For speech recognition and real time transcribe.
+* [MediaRecorder API](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API) - Record input voice stream. 
+* [Google Natural Language API](https://cloud.google.com/natural-language/) - Derive insights from text using Google machine learning.
+* [Jira](https://www.atlassian.com/software/jira) - Project management.
 
 
