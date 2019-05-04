@@ -1,4 +1,4 @@
-# VoiceNote
+# VoiceNote User Guide
 
 **VoiceNote** is a powerful speech-enabled online notepad, designed to empower your ideas by implementing a clean & efficient design, so you can focus on your thoughts. It is a powerful web-based application, that combining speech-recognition, note-analysis, documentations and more.
 
@@ -107,9 +107,9 @@ Click **History** on the upper left corner, to check your history voice notes.
 
 ![VoiceNote Demo](Demo/10logIn.gif)
 
-Click the **Sign In** Button on the upper left corner. If you are the first-time user, please sign-up by setting your username and password; if you are the return user, you can directly log in with your username and password.
+>Click the **Sign In** Button on the upper left corner. If you are the first-time user, please sign-up by setting your username and password; if you are the return user, you can directly log in with your username and password.
 
-*Note: Sign in is not required to use VoiceNote, but you need to log in to save your notes and review your history.*
+>*Note: Sign in is not required to use VoiceNote, but you need to log in to save your notes and review your history.*
 
 
 ## Troubleshooting
