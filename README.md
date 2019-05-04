@@ -21,7 +21,7 @@ Other features built for productivity for both type of typing are:
 
 ## Demo
 
-![VoiceNote Demo](demo2.gif)
+![VoiceNote Demo](Demo/demo2.gif)
 
 
 ## Target Users - who can benefit from VoiceNote?
@@ -39,7 +39,7 @@ Pre-operation:
 Operation:  
 1. Enter the website
 
-![VoiceNote Demo](demo2.gif)
+![VoiceNote Demo](Demo/01Interface.gif)
 
 2. Click the **Start** Button, start recording your voice
 
@@ -47,18 +47,18 @@ Operation:
 
    *Note: For the first time only: Your browser will pop up a request for you to allow the site to listen to your mic. Click "Allow".*
    
-   ![VoiceNote Demo](demo2.gif)
+   ![VoiceNote Demo](Demo/02Start.gif)
 
 3. Start dictating. Speak slowly and clearly. Space your words and emphasize correct diction for better results.
 
-![VoiceNote Demo](demo2.gif)
+![VoiceNote Demo](Demo/03Transcribe.gif)
 
 Once you click the **Start** Button, VoiceNote starts recording your voice for you through your microphone, and display the real-time recognition results in the left dialog box.
 
 
 4. (Another Approach) Text into the left dialog box directly if you want!
 
-![VoiceNote Demo](demo2.gif)
+![VoiceNote Demo](Demo/05Type.gif)
 
 Beyond taking notes through voice recognition, another approach is type into the left dialog box directly, the text result is also displayed in real time.
 
@@ -66,7 +66,7 @@ Beyond taking notes through voice recognition, another approach is type into the
 
 5. Click **Pause** Button
 
-![VoiceNote Demo](demo2.gif)
+![VoiceNote Demo](Demo/04Pause.gif)
 
 Click the **Pause** Button to stop the real-time voice recognition.
 
@@ -79,17 +79,17 @@ You can either speak or text your note as many times as you want before you save
 
 7. Click **Analysis** Button
 
-![VoiceNote Demo](demo2.gif)
+![VoiceNote Demo](Demo/06Analyze.gif)
 
 Click the **Analysis** Button, the analysis result is displayed on the right dialog box.
 
 8. Check the Entities Indentifications of the word by placing your cursor on the word.
 
-![VoiceNote Demo](demo2.gif)
+![VoiceNote Demo](Demo/07EntityIdentification.gif)
 
 9. Click **Save** Button
 
-![VoiceNote Demo](demo2.gif)
+![VoiceNote Demo](Demo/08Save.gif)
 
 Click **Save** Button to save your voice nots.
 
@@ -97,7 +97,7 @@ Click **Save** Button to save your voice nots.
 
 10. Check the **History**
 
-![VoiceNote Demo](demo2.gif)
+![VoiceNote Demo](Demo/09History.gif)
 
 Click **History** on the upper left corner, to check your history voice notes.
 
@@ -105,7 +105,7 @@ Click **History** on the upper left corner, to check your history voice notes.
 
 11.(Side function) **Sign-up/Log-in**
 
-![VoiceNote Demo](demo2.gif)
+![VoiceNote Demo](Demo/10logIn.gif)
 
 Click the **Sign In** Button on the upper left corner. If you are the first-time user, please sign-up by setting your username and password; if you are the return user, you can directly log in with your username and password.
 
