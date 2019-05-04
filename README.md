@@ -45,7 +45,7 @@ Operation:
 
 ![VoiceNote Demo](demo2.gif)
 
-After clicking the **Start** Button, hints show below “Voice Recognition activate. Try speaking into the microphone”.
+...After clicking the **Start** Button, hints show below “Voice Recognition activate. Try speaking into the microphone”.
 
 *Note: For the first time only: Your browser will pop up a request for you to allow the site to listen to your mic. Click "Allow".*
 
@@ -123,15 +123,11 @@ Most common causes for failures are:
 To fix the last 2 problems, you should click on the small camera icon in the browser's address bar (will appear after you click the mic) and there set the permission to Allow **VoiceNote** and pick the correct microphone from the drop-down list.
 
 
-## Compatibility & System Requirements
-
-**VoiceNote** is really a broad-platform app. As long as you run it through a Chrome browser it will work. No need for installation, disk space or high-end machines. It will run smoothly on your PC, desktop, laptop and Chromebook. You might try it on your tablets and phones, but it might have issues with some devices.
 
 ## Development Tools
 
 The web application is built with MERN stack (MongoDB, Express.js, React.js, Node.js), Redis, Passport.js, Bootstrap, Web Speech API, MediaRecorder API, Google Natural Language API, and AWS S3. 
 
-### Built With
 * [S3](https://aws.amazon.com/s3/) - To store raw audio recording files.
 * [MongoDB](https://www.mongodb.com/) - NoSQL database.
 * [Express.js](https://expressjs.com/) - Web application framework for Node.js. 
@@ -145,4 +141,9 @@ The web application is built with MERN stack (MongoDB, Express.js, React.js, Nod
 * [Google Natural Language API](https://cloud.google.com/natural-language/) - Derive insights from text using Google machine learning.
 * [Jira](https://www.atlassian.com/software/jira) - Project management.
 
+
+
+## Compatibility & System Requirements
+
+**VoiceNote** is really a broad-platform app. As long as you run it through a Chrome browser it will work. No need for installation, disk space or high-end machines. It will run smoothly on your PC, desktop, laptop and Chromebook. You might try it on your tablets and phones, but it might have issues with some devices.
 
