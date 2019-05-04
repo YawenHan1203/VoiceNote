@@ -21,7 +21,7 @@ Other features built for productivity for both type of typing are:
 
 ## Demo
 
-![VoiceNote Demo](Demo/demo2.gif)
+![VoiceNote Demo](Demo/demo.gif)
 
 
 ## Target Users - who can benefit from VoiceNote?
@@ -66,7 +66,7 @@ In addition, people who type a lot as their profession or hobby might find **Voi
 
 >*Note: You can text into the dialog box any time, no matter you are in the recording mode or not.*
 
-5. Click **Pause** Button
+**5.** Click **Pause** Button
 
    Click the **Pause** Button to stop the real-time voice recognition.
 
@@ -77,22 +77,22 @@ In addition, people who type a lot as their profession or hobby might find **Voi
 >*Note: If there is no voice be detected for a while, the voice recognition will stop
 automatically.*
 
-6. Repeat the step1-4 before you save your note.
+**6.** Repeat the step1-4 before you save your note.
 
    You can either speak or text your note as many times as you want before you save it.
 
-7. Click **Analysis** Button
+**7.** Click **Analysis** Button
 
    Click the **Analysis** Button, the analysis result is displayed on the right dialog box.
 
 ![VoiceNote Demo](Demo/06Analyze.gif)
 
 
-8. Check the Entities Indentifications of the word by placing your cursor on the word.
+**8.** Check the Entities Indentifications of the word by placing your cursor on the word.
 
 ![VoiceNote Demo](Demo/07EntityIdentification.gif)
 
-9. Click **Save** Button
+**9.** Click **Save** Button
 
    Click **Save** Button to save your voice nots.
 
@@ -100,7 +100,7 @@ automatically.*
 
 >*Note: you need to log in to save your result. The left dialog box will be cleared after saving.*
 
-10. Check the **History**
+**10.** Check the **History**
 
    Click **History** on the upper left corner, to check your history voice notes.
 
@@ -108,7 +108,7 @@ automatically.*
 
 >*Note: you need to log in to review your history.*
 
-11.(Side function) **Sign-up/Log-in**
+**11.**(Side function) **Sign-up/Log-in**
 
    Click the **Sign In** Button on the upper left corner. If you are the first-time user, please sign-up by setting your username and password; if you are the return user, you can directly log in with your username and password.
 
