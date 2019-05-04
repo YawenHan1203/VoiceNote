@@ -45,9 +45,9 @@ Operation:
 
 ![VoiceNote Demo](demo2.gif)
 
-...After clicking the **Start** Button, hints show below “Voice Recognition activate. Try speaking into the microphone”.
+   After clicking the **Start** Button, hints show below “Voice Recognition activate. Try speaking into the microphone”.
 
-*Note: For the first time only: Your browser will pop up a request for you to allow the site to listen to your mic. Click "Allow".*
+   *Note: For the first time only: Your browser will pop up a request for you to allow the site to listen to your mic. Click "Allow".*
 
 3. Start dictating. Speak slowly and clearly. Space your words and emphasize correct diction for better results.
 
