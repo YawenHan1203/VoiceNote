@@ -32,16 +32,16 @@ In addition, people who type a lot as their profession or hobby might find **Voi
 
 ## Instructions
 
-Pre-operation:  
+**Pre-operation:**  
 - Connect a high-quality microphone to your PC (if you have a built-in microphone it might be good enough)
 - Open your Chrome Browser(required)
 
-Operation:  
-1. Enter the website
+**Operation:**  
+**1.** Enter the website
 
 ![VoiceNote Demo](Demo/01Interface.gif)
 
-2. Click the **Start** Button, start recording your voice
+**2.** Click the **Start** Button, start recording your voice
 
    After clicking the **Start** Button, hints show below “Voice Recognition activate. Try speaking into the microphone”.
    
@@ -49,7 +49,7 @@ Operation:
    
    >*Note: For the first time only: Your browser will pop up a request for you to allow the site to listen to your mic. Click "Allow".*
 
-3. Start dictating. Speak slowly and clearly. Space your words and emphasize correct diction for better results.
+**3.** Start dictating. Speak slowly and clearly. Space your words and emphasize correct diction for better results.
 
    Once you click the **Start** Button, VoiceNote starts recording your voice for you through your microphone, and display the real-time recognition results in the left dialog box.
 
@@ -58,7 +58,7 @@ Operation:
 
 
 
-4. (Another Approach) Text into the left dialog box directly if you want!
+**4.** (Another Approach) Text into the left dialog box directly if you want!
 
    Beyond taking notes through voice recognition, another approach is type into the left dialog box directly, the text result is also displayed in real time.
 
