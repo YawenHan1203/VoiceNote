@@ -1,5 +1,4 @@
-# VoiceNote
-WebApplication, speech recognization, sentiment analysis
+<span style="color:blue"># VoiceNote</span>
 
 **VoiceNote** is a powerful speech-enabled online notepad, designed to empower your ideas by implementing a clean & efficient design, so you can focus on your thoughts. It is a powerful web-based application, that combining speech-recognition, note-analysis, documentations and more.
 
@@ -14,11 +13,11 @@ For many of us, key-typing is slow and thus time-consuming. **VoiceNote** lets y
 **VoiceNote** lets you move from voice-typing to key-typing seamlessly. This way, you can dictate when convenient and type when more appropriate. You can also dictate and edit your text results right away, and continue dictating. No need to go through app modes or even stop dictation.
 
 Other features built for productivity for both type of typing are:  
-- Analyze the text for entity identification;
-- Save your voice notes with one-click;
-- Log-in for history review and research;
-- No installation, or download needed;
-- Unlimited usage for free.
+- Analyze the text for entity identification
+- Save your voice notes with one-click
+- Log-in for history review and research
+- No installation, or download needed
+- Unlimited usage for free
 
 ## Demo
 
@@ -34,8 +33,7 @@ In addition, people who type a lot as their profession or hobby might find **Voi
 ## Instructions
 
 Pre-operation:  
-- Connect a high-quality microphone to your PC (if you have a built-in microphone it
-might be good enough);
-- Open your Chrome Browser(required);
+- Connect a high-quality microphone to your PC (if you have a built-in microphone it might be good enough)
+- Open your Chrome Browser(required)
 
 
