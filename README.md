@@ -2,4 +2,4 @@
 WebApplication, speech recognization, sentiment analysis
 
 
-![VoiceNote Demo](demo.gif)
+![VoiceNote Demo](demo2.gif)
