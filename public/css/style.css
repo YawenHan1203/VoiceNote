@@ -1,0 +1,292 @@
+/* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+.popup .hide {
+  visibility: hidden;
+
+}
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
+
+.PERSON {
+  color:  #DB4436;
+  font-weight: bold;
+}
+.ORGANIZATION {
+  color: #0001FF;
+  font-weight: bold;
+
+}
+.OTHER {
+  color: #810000;
+  font-weight: bold;
+
+}
+.LOCATION {
+  color: #008001;
+  font-weight: bold;
+
+}
+
+.COUNSUMER_GOOD {
+  color: #800080;
+  font-weight: bold;
+
+}
+.EVENT {
+  color: #B29838;
+  font-weight: bold;
+
+}
+.WORK_OF_ART {
+  color:#FF8C01;
+  font-weight: bold;
+
+}
+.PHONE_NUMBER{
+  color: #469990;
+  font-weight: bold;
+
+
+}
+.ADDRESS{
+  color: #64B5CD;
+  font-weight: bold;
+
+}
+.DATE{
+  color: #FB9A99;
+  font-weight: bold;
+
+}
+.NUMBER{
+  color:#B2DF8A;
+  font-weight: bold;
+
+}
+.PRICE{
+  color:#FFDA2F;
+  font-weight: bold;
+
+}
+
+/* Tooltip container */
+span {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+
+
+#output-textarea {
+  width: 80%;
+  margin: auto;
+  padding-top: 20px
+
+}
+
+/* ul {
+    list-style: none;
+    padding: 0;
+} */
+
+p {
+    color: #444;
+}
+
+button {
+    margin-bottom: 20px;
+    padding: 10px 10px;
+}
+
+button:focus {
+    outline: 0;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 30px 50px;
+    text-align: center;
+}
+
+.container h1 {
+    margin-bottom: 20px;
+}
+
+.page-description {
+    font-size: 1.1rem;
+    margin: 0 auto;
+    position: absolute;
+    top: 58%;
+    left: 47%;
+    transform: translate(-45%, -45%);
+    color: white;
+}
+
+.tz-link {
+    font-size: 1em;
+    color: #1da7da;
+    text-decoration: none;
+}
+
+.no-browser-support {
+    display: none;
+    font-size: 1.2rem;
+    color: #e64427;
+    margin-top: 35px;
+}
+
+.app {
+    margin: 40px auto;
+}
+
+#note-textarea {
+    margin: 20px 0;
+    width: 80%;
+}
+
+#recording-instructions {
+    margin: 15px auto 60px;
+}
+
+#notes {
+    padding-top: 20px;
+}
+
+.note .header {
+    font-size: 0.9em;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+.note .delete-note,
+.note .listen-note {
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.note .content {
+    margin-bottom: 30px;
+}
+
+.align-center img {
+    padding-top: 10px;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 50px 25px;
+    }
+    button {
+        margin-bottom: 20px;
+        padding: 10px 10px;
+        width: 80%;
+    }
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    color: white;
+    font-size: 70px;
+}
+
+li {
+  display: block;
+  border-bottom: 1px;
+  display: inline;
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #1da7da;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+img {
+  width: 100%;
+  height: 350px;
+  object-fit: fill;
+}
