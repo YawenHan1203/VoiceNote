@@ -108,7 +108,16 @@ automatically.*
 
 >*Note: you need to log in to review your history.*
 
-**11.**(Side function) **Sign-up/Log-in**
+**11.** Edit the **History**
+
+   Click the your recognition history cotent in the History page, you can directly edit the content on the web. Then click the **Save** button to save your change.
+
+![VoiceNote Demo](Demo/11update-edit.gif)
+
+>*Note: Sign in is not required to use VoiceNote, but you need to log in to save your notes and review your history.*
+
+
+**12.**(Side function) **Sign-up/Log-in**
 
    Click the **Sign In** Button on the upper left corner. If you are the first-time user, please sign-up by setting your username and password; if you are the return user, you can directly log in with your username and password.
 
